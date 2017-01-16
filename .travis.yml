@@ -1,4 +1,4 @@
 language: C
 script: make
 notifications:
-  webhooks:http://bdfcbea2.ngrok.io/webhook
+  webhooks: http://33378c9f.ngrok.io/webhook
